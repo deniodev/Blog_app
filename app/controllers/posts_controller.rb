@@ -21,9 +21,9 @@ class PostsController < ApplicationController
     @post.author_id = @user.id
 
     if @post.save
-      redirect_to user_post_path(@user), notice: 'Posted Successfuly'
+      redirect_to user_posts_path(@user), notice: 'Posted Successfuly'
     else
-      redirect_to user_post_path(@user), alert: 'Post Failed!'
+      redirect_to user_posts_path(@user), alert: 'Post Failed!'
     end
   end
 
