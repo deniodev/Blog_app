@@ -21,11 +21,8 @@
         </div>
         
         <% if post.last_five_comments.present? %>
-          <div class="border-2 p-2">
-            <% post.last_five_comments.each do |comment| %>
-              <%= render "shared/comment", comment: comment %>
-            <% end %>
-          </div>
+         <% @comments = post.last_five_comments %>
+          <%= render "shared/comment", comments: @comments %>
         <% end %>
 
       </div>

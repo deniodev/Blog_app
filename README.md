@@ -120,6 +120,13 @@ To run tests, run the following command:
 - GitHub: (https://github.com/deniodev)
 - LinkedIn: (https://www.linkedin.com/in/denionhanale/)
 
+## 👥 Authors <a name="authors"></a>
+
+👤 **Unorji Kingsley**
+
+- GitHub: (https://github.com/unorjikingsley)
+- LinkedIn: (https://www.linkedin.com/in/unorjikingsley/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
