@@ -80,3 +80,5 @@ gem 'rails-controller-testing'
 gem 'devise', '~> 4.9'
 
 gem 'letter_opener'
+
+gem 'cancancan'
