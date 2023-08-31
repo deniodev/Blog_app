@@ -76,3 +76,7 @@ gem 'rubocop', '>= 1.0', '< 2.0'
 gem 'rspec-rails', '~> 6.0', '>= 6.0.3'
 
 gem 'rails-controller-testing'
+
+gem 'devise', '~> 4.9'
+
+gem 'letter_opener'
