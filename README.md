@@ -61,7 +61,7 @@ In order to run this project you need:
 
 - Install Ruby
 - Install Rails
-- Install Rspec
+- Install Rspec.
 - Install Postgres
 
 ### Setup
