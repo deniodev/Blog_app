@@ -24,9 +24,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Blog_App] <a name="about-project"></a>
+# 📖 [Blog] <a name="about-project"></a>
 
-**[Blog_App]** is a fully functional website is designed to display a list of posts and empower readers to interact with these posts by adding comments and liking them.
+**[Blog]** is a fully functional website is designed to display a list of posts and empower readers to interact with these posts by adding comments and liking them.
 
 ## 🛠 Built With <a name="built-with"></a>
 
