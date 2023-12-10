@@ -43,7 +43,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Showcase Posts]**
+- **[Posts]**
 - **[Comments]**
 - **[Likes]**
 
