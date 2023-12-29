@@ -1,4 +1,4 @@
-# Blog_App
+# Blog
 
 <a name="readme-top"></a>
 
